@@ -1,0 +1,17 @@
+$ git config --global user.name "Zeb"
+
+$ git config --global user.email "zeb@zeb.com"
+
+$ touch hellogit.py
+
+$ git init
+
+$ git branch -m main
+
+$ git status
+
+$ git commit -m "Este es mi primer commit"
+
+$ git log
+
+git add . (añade todos los ficheros y todos los cambios realizados)
