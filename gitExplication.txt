@@ -1,3 +1,5 @@
+- Inicio en Git
+
 $ git config --global user.name "Zeb"
 
 $ git config --global user.email "zeb@zeb.com"
@@ -15,3 +17,9 @@ $ git commit -m "Este es mi primer commit"
 $ git log
 
 git add . (añade todos los ficheros y todos los cambios realizados)
+
+- CheckOut And Reset
+
+$ git checkout hellogit.py  (Si el elemento no ha sido modificado y quieres volver a la version anterior, se usa esto)
+git reset
+
