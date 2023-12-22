@@ -1,0 +1,1 @@
+print("Nuevofichero parte 3 del ejercicio")
